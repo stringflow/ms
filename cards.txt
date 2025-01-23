@@ -1,0 +1,318 @@
+Date: 2025-01-14
+Map: Victoria Road: Right Around Lith Harbor
+Cards: Blue Snail 5/5, Red Snail 3/5, Slime 4/5
+Notable Drops: -
+NX Gained: 200
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-14
+Map: Victoria Road: Thicket Around the Beach III
+Cards: Snail 5/5, 5/5 Mano
+Notable Drops: 1x Overall DEX 60%, 2x Cape INT 60%
+NX Gained: 100
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-14
+Map: Hidden Street: Mushroom Garden
+Cards: Red Snail 5/5, Shroom 5/5, Orange Mushroom 1/5
+Notable Drops: -
+NX Gained: 350
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-14
+Map: Hidden Street: An Empty House
+Cards: Orange Mushroom 5/5
+Notable Drops: -
+NX Gained: 200
+Gacha Gained: 2 common, 0 rare
+
+Date: 2025-01-14
+Map: Mini Dungeon: Henesys Pig Farm
+Cards: Pig 5/5, Ribbon Pig 5/5
+Notable Drops: 28 Leather, 16 Pig's Head
+NX Gained: 1050
+Gacha Gained: 3 common, 1 rare
+
+Date: 2025-01-14
+Map: Hidden Street: Pig Park II
+Cards: Iron Hog 5/5
+Notable Drops: 14 Elixirs
+NX Gained: 750
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-14
+Map: Victoria Road: The Tree That Grew III
+Cards: Slime 5/5, Stump 5/5, Green Mushroom 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 3 common, 0 rare
+
+Date: 2025-01-14
+Map: Dungeon: Ant Tunnel III
+Cards: Zombie Mushroom 5/5, Horny Mushroom 5/5
+Notable Drops: -
+NX Gained: 100
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-14
+Map: Dungeon: The Cave of Evil Eye III
+Cards: Evil Eye 5/5, Jr. Boogie 1/5
+Notable Drops: -
+NX Gained: 100
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-14
+Map: Kerning City Subway: Line 1 <Area 1>
+Cards: Bubbling 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-15
+Map: Dungeon: Forest of Golem
+Cards: Dark Stone Golem 5/5, Mixed Golem 5/5, Lupin 5/5, Evil Eye 5/5
+Notable Drops: 2x Gloves ATT 60%
+NX Gained: 100
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-15
+Map: Dungeon: Damp Tree-Forest
+Cards: Octopus 5/5, Jr. Neckie 1/5
+Notable Drops: -
+NX Gained: 100
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-15
+Map: Victoria Road: East Rocky Mountain III
+Cards: Dark Stump 5/5, Axe Stump 3/5
+Notable Drops: -
+NX Gained: 350
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-15
+Map: Victoria Road: East Rocky Mountain V
+Cards: Dark Axe Stump 5/5, Axe Stump 5/5, Stumpy 5/5
+Notable Drops: 27x Sap of Ancient Tree
+NX Gained: 500
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-15
+Map: Victoria Road: Excavation Site I
+Cards: Ghost Stump 5/5, Wooden Mask 1/5
+Notable Drops: -
+NX Gained: 100
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-15
+Map: Victoria Road: Excavation Site III
+Cards: Wooden Mask 4/5, Rocky Mask 5/5
+Notable Drops: -
+NX Gained: 700
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-15
+Map: Victoria Road: Excavation Site II
+Cards: Wooden Mask 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-15
+Map: Hidden Street: Land of Wild Boar
+Cards: Wild Boar 5/5, Jr. Boogie 3/5
+Notable Drops: -
+NX Gained: 450
+Gacha Gained: 2 common, 0 rare
+
+== TIER 1 ACHIEVED ==
+
+Date: 2025-01-16
+Map: The Burning Sands: Outside the West Entrance of Ariant
+Cards: Jr. Cactus 5/5, Cactus 1/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-16
+Map: The Burning Sands: Cactus Desert 1
+Cards: Cactus 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-16
+Map: Hidden Street: Bellamoa's Cave
+Cards: Bellamoa 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-16
+Map: Hidden Street: Royal Cactus Desert
+Cards: Royal Cactus 5/5, Deo 5/5
+Notable Drops: 3x Overall DEX 60%, 2x Overall LUK 60%, 1x 1H Sword MATT 30%
+NX Gained: 300
+Gacha Gained: 3 common, 1 rare
+
+Date: 2025-01-16
+Map: The Burning Sands: The Scorching Desert
+Cards: Ear Plug Plead 5/5
+Notable Drops: -
+NX Gained: 350
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-16
+Map: Hidden Street: Frilled Field
+Cards: Scarf Plead 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-16
+Map: The Burning Sands: Outside East Entrance of Ariant
+Cards: Female Desert Rabbit 5/5, Male Desert Rabbit 4/5
+Notable Drops: 1x Work Gloves
+NX Gained: 750
+Gacha Gained: 2 common, 0 rare
+
+Date: 2025-01-16
+Map: The Burning Sands: Tent of the Entertainers
+Cards: Male Desert Rabbit 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-16
+Map: The Burning Sands: Oustide North Entrance of Ariant
+Cards: Meercat 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-16
+Map: Sunset Road: Sahel 1
+Cards: Sand Rat 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-16
+Mak: Sunset Road: The Desert of Dreams
+Cards: Dark Sand Swarf 5/5
+Notable Drops: 3x Claw ATT 60%
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-16
+Map: Sunset Road: Sahel 3
+Cards: Scorpion 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 2 common, 0 rare
+
+Date: 2025-01-20
+Map: Singapore: Ghost Ship 2
+Cards: Slimy 5/5
+Notable Drops: 2/6 Red Pirate Top
+NX Gained: 550
+Gacha Gained: 2 common, 0 rare
+
+Date: 2025-01-21
+Map: Victoria Road: East Rocky Mountain VII
+Cards: Fire Boar 1/5, Copper Drake 5/5
+Notable Drops: -
+NX Gained: 350
+Gacha Gained: 2 common, 0 rare
+
+Date: 2025-01-21
+Map: Victoria Road: Iron Boar Land
+Cards: Iron Boar 5/5
+Notable Drops: -
+NX Gained: 250
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-21
+Map: Victoria Road: Remains <Tomb> III
+Cards: Mummy Dog 5/5, Skeledog 1/5, Skeleton Soldier 1/5
+Notable Drops: -
+NX Gained: 350
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-21
+Map: Victoria Road: Camp 3
+Cards: Officer Skeleton 5/5, Skeleton Soldier 3/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 2 common, 1 rare
+
+Date: 2025-01-21
+Map: Victoria Road: Camp 1
+Cards: Skeleton Soldier 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 2 common, 0 rare
+
+Date: 2025-01-21
+Map: Victoria Road: Remains <Tomb> I
+Cards: Skeledog 5/5
+Notable Drops: -
+NX Gained: 250
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-22
+Map: Hidden Street: The Giant of the Sunset
+Cards: Desert Giant 5/5
+Notable Drops: -
+NX Gained: 100
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-22
+Map: Sunset Road: The Ruins of Desert Nomads
+Cards: Sand Dwarf 5/5
+Notable Drops: -
+NX Gained: 250
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-22
+Map: Sunset Road: North Desert Road 2
+Cards: Kiyu 5/5
+Notable Drops: -
+NX Gained: 250
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-22
+Map: Victoria Road: Golem's Temple I
+Cards: Stone Golem 5/5, Fairy 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-22
+Map: Dungeon: The Grave of Mushmom
+Cards: Jr. Boogie 5/5
+Notable Drops: -
+NX Gained: 250
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-22
+Map: Warning Street: The Burnt Land I
+Cards: Fire Boar 5/5
+Notable Drops: 2x Arwen's Glass Shoes
+NX Gained: 0
+Gacha Gained: 1 common, 0 rare
+
+Date: 2025-01-22
+Map: Hidden Street: Blue Mushroom FOrest
+Cards: Blue Mushroom 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+Date: 2025-01-22
+Map: Orbis: Orbis Tower <20th floor>
+Cards: Jr. Sentinel 5/5
+Notable Drops: -
+NX Gained: 0
+Gacha Gained: 0 common, 0 rare
+
+== TIER 2 ACHIEVED ==
